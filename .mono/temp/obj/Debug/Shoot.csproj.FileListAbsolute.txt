@@ -1,0 +1,9 @@
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\bin\Debug\Shoot.dll
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\bin\Debug\Shoot.pdb
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.AssemblyInfoInputs.cache
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.AssemblyInfo.cs
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.csproj.CoreCompileInputs.cache
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.dll
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.pdb
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.csproj.AssemblyReference.cache
+D:\Programmierung\Godot Pro\C#\shoot\.mono\temp\obj\Debug\Shoot.GeneratedMSBuildEditorConfig.editorconfig
